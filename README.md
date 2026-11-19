@@ -1,3 +1,6 @@
+# Database Schema
+<img width="1236" height="655" alt="Screenshot 2026-10-08 135221" src="https://github.com/user-attachments/assets/bf6dac83-bfb2-4f2a-91f4-18a2b7128c6a" />
+
 # 1. BUSINESS PERFORMANCE ANALYSIS
   This project attempts to analyze ZT business performance. The staging dataset contains information about customers demographics, geographic locations (including town, city and state where customers resides), order trends, payment methods, revenue and cost, and order status.
   
